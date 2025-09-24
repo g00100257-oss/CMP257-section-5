@@ -1,0 +1,101 @@
+body {
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+    background-color: rgb(223, 236, 240);
+
+}
+
+header,
+footer {
+
+    background-color: rgb(14, 69, 172);
+
+    text-align: center;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+}
+
+h2 {
+
+    color: rgb(14, 69, 172);
+
+}
+
+h4,
+h1,
+a,
+footer {
+
+    color: rgb(223, 236, 240);
+
+}
+
+form {
+
+    border-style: groove;
+
+    background-color: white;
+
+    padding: 40px;
+
+    margin: 100px auto;
+
+    max-width: 600px;
+
+    border-radius: 10px;
+
+}
+
+#submit {
+
+    color: rgb(223, 236, 240);
+
+    background-color: rgb(14, 69, 172);
+
+}
+
+em a {
+
+    color: black;
+
+}
+
+html {
+
+    font-family: sans-serif;
+
+}
+
+
+label {
+
+    font-weight: bold;
+
+}
+
+select {
+
+    background-color: rgb(143, 154, 173);
+
+    border-style: groove;
+
+    max-width: 600px;
+
+    border-radius: 10px;
+}
+
+.custom {
+    background-color: rgb(14, 69, 172);
+    padding: 20px;
+    color: rgb(223, 236, 240);
+}
+
+.centre {
+    text-align: center;
+}
